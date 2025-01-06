@@ -48,11 +48,11 @@
   - Top 5 Customers by Booking Value (Table).  
 
 ## Dashboard
-![Dashboard](https://github.com/mr-shanks/Ola-Booking-Data-Analysis/blob/main/Ola-Booking-Analysis-BI-Report.pdf)
+[Dashboard](https://github.com/mr-shanks/Ola-Booking-Data-Analysis/blob/main/Ola-Booking-Analysis-BI-Report.pdf)
 
 ## External References
-- **YouTube Tutorial:** ![Top Varsity]([https://www.youtube.com/@TopVarSity/videos](https://www.youtube.com/watch?v=1uPUyT9LoHQ))  
-- **Dataset Inspiration:** Ola Booking Project
+- **YouTube Tutorial:** [Top Varsity](https://www.youtube.com/watch?v=1uPUyT9LoHQ)
+- **Dataset Inspiration:** [Ola Booking Project](https://github.com/mr-shanks/Ola-Booking-Data-Analysis/blob/main/Assets/ChatGPT-Prompt.txt)
 
 ## Future Steps
 - Incorporate predictive analysis to identify potential cancellations.  
